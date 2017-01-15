@@ -1,0 +1,3 @@
+patches:
+    knockback: true
+    command_spam: true
